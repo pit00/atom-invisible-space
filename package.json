@@ -1,7 +1,7 @@
 {
   "name": "atom-invisible-space",
   "main": "./lib/atom-innerspace",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Atom package to show invisible characters between words and symbols",
   "keywords": [],
   "repository": "https://github.com/pit00/atom-invisible-space",
